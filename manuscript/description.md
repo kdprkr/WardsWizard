@@ -1,1 +1,1 @@
-Directory to store the finalized manuscript files.
+Directory to store the written manuscript documents.
