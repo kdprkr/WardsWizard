@@ -1,1 +1,1 @@
-Directory to store sequence and quality files.
+Directory to store the sequence and quality files.
